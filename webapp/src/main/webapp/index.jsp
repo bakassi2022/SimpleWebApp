@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>The Lord is my shephered</h1>   
+         <h1>God love the world and gave he begotten son</h1>   
 	 
 
     </section>    
