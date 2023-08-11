@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>my first project</h1>   
+         <h1>AFRICA IN MY HEART</h1>   
 	 
 
     </section>    
