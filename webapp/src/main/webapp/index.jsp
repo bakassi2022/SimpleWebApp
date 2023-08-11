@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>AFRICA IN MY HEART</h1>   
+         <h1>The Lord is my shephered</h1>   
 	 
 
     </section>    
